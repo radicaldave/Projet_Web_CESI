@@ -29,9 +29,15 @@
 html {
 	font-size:62.5%;
 }
-body {
-	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color:#444;
+
+body  {
+	background-image:url("./img/sponges.jpg");
+	background: #0F0;										/* Page background */
+	color: #F16E0B;														/* Font color */
+	padding: 150px;													/* Padding between link blocks and edge */
+	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
+	text-shadow: rgba(0,0,0,0.6) 1px 1px 0; /* Text Shadow */
+
 }
 /* clear */
 .clear:before,
