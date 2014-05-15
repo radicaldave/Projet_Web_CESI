@@ -13,7 +13,7 @@
 
 				<br class="clear">
 
-				<!-- <?php edit_post_link(); ?> -->
+				<?php // edit_post_link(); ?>
 
 			</article>
 			<!-- /article -->
@@ -36,6 +36,6 @@
 		<!-- /section -->
 	</main>
 
-<?php get_sidebar(); ?>
+<?php // get_sidebar(); ?>
 
 <?php get_footer(); ?>

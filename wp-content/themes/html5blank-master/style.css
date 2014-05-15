@@ -150,6 +150,18 @@ h1 {
 
 }
 
+p {
+	text-shadow: #FFF 2px 2px 0;
+}
+
+div {
+	background-image:url("./img/cover.png");
+	border-radius: 8px;
+}
+
+li {
+	text-align: center;
+}
 /* clear */
 .clear:before,
 .clear:after {
@@ -229,7 +241,7 @@ border-radius: 8px;
 
 .nav li { 
 	float: left; 
-	width: 25%;
+	width: 33%;
 	heigth: 60px;
 	line-height: 60px;
 	padding: 0px; 
